@@ -1,4 +1,4 @@
 {
     "name": "fabrizzio/vagrant-php",
-    "bin": ["bin/install"]
+    "bin": ["bin/install", "bin/solr"]
 }
